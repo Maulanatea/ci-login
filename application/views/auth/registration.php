@@ -7,7 +7,7 @@
           <div class="col-lg">
             <div class="p-5">
               <div class="text-center">
-                <h1 class="h4 text-gray-900 mb-4">Create an Account Siaaaaa uwaaaa! aing nu jore</h1>
+                <h2 class="h4 text-gray-900 mb-4">Create an Account Siaaaaa </h2>
               </div>
               <form class="user" method="post" action="<?= base_url('auth/registration'); ?>">
                 <div class="form-group">
@@ -29,7 +29,7 @@
                   </div>
                 </div>
                 <button type="submit" class="btn btn-primary btn-user btn-block">
-                  Register Account
+                  Register Account naonke
                 </button>
               </form>
               <hr>
